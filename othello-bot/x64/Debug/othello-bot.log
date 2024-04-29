@@ -1,0 +1,2 @@
+﻿  Game.cpp
+LINK : fatal error LNK1168: cannot open D:\Projects\othello-bot\x64\Debug\othello-bot.exe for writing
