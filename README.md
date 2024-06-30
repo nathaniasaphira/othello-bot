@@ -1,6 +1,6 @@
 # othello-bot
-An AI to accompany you to play Othello (Reversi)
+This bot is an AI to accompany you to play Othello (Reversi) in your terminal/console.
 
 ### Preview
 
-![othello-bot-preview](Docs/preview.png)
+<img src="images/preview.png" width="350" />
