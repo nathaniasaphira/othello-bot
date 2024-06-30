@@ -1,2 +1,2 @@
-﻿  Game.cpp
-LINK : fatal error LNK1168: cannot open D:\Projects\othello-bot\x64\Debug\othello-bot.exe for writing
+﻿  LINK : D:\Projects\othello-bot\x64\Debug\othello-bot.exe not found or not built by the last incremental link; performing full link
+  othello-bot.vcxproj -> D:\Projects\othello-bot\x64\Debug\othello-bot.exe
